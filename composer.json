@@ -1,6 +1,7 @@
 {
   "name": "intelligentspark/insert-tag-event-title-bundle",
   "description": "Frontend Event Title Insert Tag Bundle for Contao 4",
+  "keywords": ["contao","event","insert tag","contao 4","bundle"],
   "type": "contao-bundle",
   "authors": [
     {
