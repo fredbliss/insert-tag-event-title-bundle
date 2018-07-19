@@ -13,7 +13,8 @@
   "require": {
     "php": ">=7.0",
     "contao/core-bundle": "^4.4",
-    "contao/calendar-bundle": "^4.4"
+    "contao/calendar-bundle": "^4.4",
+    "symfony/framework-bundle": "^3.4"
   },
   "extra": {
     "contao-manager-plugin": "IntelligentSpark\\EventTitleInsertTag\\ContaoManager\\Plugin"
